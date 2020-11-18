@@ -3,8 +3,10 @@
 移植mini-xml3.2到vxworks 6.8
 
 因为项目需要一个纯c的xml解析库，临时找了下，目前看来只有两个比较合适
-一是ezxml库(http://ezxml.sourceforge.net/)，这个属于纯粹的源代码移植，后续再说
-一个就是mini-xml库(https://www.msweet.org/mxml/)目前最新版本是3.2
+一是ezxml库(http://ezxml.sourceforge.net/)
+这个属于纯粹的源代码移植，后续再说
+一个就是mini-xml库(https://www.msweet.org/mxml/)
+目前最新版本是3.2
 
 1 下载Mini-xml库
 2  修改config.h.in 文件
